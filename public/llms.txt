@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו פרויקטים מרהיבים של UX/UI ועיצוב גרפי שמשנים חוויות דיגיטליות. תיק עבודות מקצועי שמדבר בשפת העיצוב המודרני ומביא תוצאות עסקיות מדידות.
+
+### עבודות
+https://example.com/work
+צפו בפרויקטים שלנו: עיצובי ממשק וחוויית משתמש לאפליקציות ואתרים. כל פרויקט מספר סיפור של user interface design שמשלב יופי ופונקציונליות מושלמת.
+
+### אודות
+https://example.com/about
+הכירו את הצוות והגישה המקצועית שלנו בעיצוב גרפי וחווית משתמש. שנות ניסיון בהפיכת רעיונות למוצרים דיגיטליים שמשתמשים אוהבים ומותגים בוחרים.
+
+### צור קשר
+https://example.com/contact
+מוכנים להתחיל פרויקט עיצוב? צרו קשר עכשיו לייעוץ ראשוני ללא התחייבות. נשמח לשמוע על האתגרים שלכם ולהציע פתרונות עיצוב יצירתיים ומדויקים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
